@@ -1,0 +1,45 @@
+# Maven / Java build output
+/target/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# VS Code
+.vscode/
+
+# Generated sources
+/generated-sources/
+/generated-test-sources/
+
+# Maven specific
+dependency-reduced-pom.xml
+release.properties
+maven-status/
+maven-archiver/
+
+# Packages
+*.jar
+*.war
+*.ear
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+
+# OS files
+.DS_Store
+
+# Environment / secrets
+.env
+*.keystore
+
+# Misc
+*.class
